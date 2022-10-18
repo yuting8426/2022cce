@@ -72,7 +72,7 @@ int main()
 
 ```
 
-##long long int
+## long long int
 ```cpp
 #include <stdio.h>
 int main()
@@ -90,7 +90,7 @@ int main()
 ```
 
 
-##輾轉相除法，用 long long int 來計算
+## 輾轉相除法，用 long long int 來計算
 ```cpp
 #include <stdio.h>
 int main()
@@ -107,7 +107,7 @@ int main()
 }
 
 ```
-##10進位轉2進位「剝皮法」
+## 10進位轉2進位「剝皮法」
 
 ```cpp
 #include <stdio.h>
